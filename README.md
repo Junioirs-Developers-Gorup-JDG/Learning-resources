@@ -4,3 +4,4 @@ Repositório contendo conteudos sobre desenvolvimento web com Node e React para 
 ## Conteúdos:
 
 - [Oque é SOLID](./Resources/SOLID.md)
+- [Git](./Resources/Git.md)
