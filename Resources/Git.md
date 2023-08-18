@@ -3,6 +3,8 @@
 - Main 
 	- Travada
 	- Merge apenas quando for fazer deploy de uma nova versão
+- Hotfixes
+	Usada para realizar pequenos mas urgentes ajustes de problemas na main.
 - Develop
 	Usada para unir as features, com o objetivo de testar a integração entre features
 - Branch com nome de Feature
