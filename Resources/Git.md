@@ -10,6 +10,8 @@
 - Branch com nome de Feature
 	Usada para desenvolver, atualizar, remover uma feature.
 
+OBS: Apagar branches depois do merge
+
 Exemplo: 
 
 Supondo o desenvolvimento de um site com tela de login e dashboard. Teriamos o esquema de branches [assim](https://www.figma.com/file/EacWUSe7dVVknmfhp5lVya/Untitled?type=whiteboard&node-id=0%3A1&t=7oKZFGHvWBucZCDT-1)
